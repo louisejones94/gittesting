@@ -1,1 +1,1 @@
-const hello = "hello";
+const hello = "hello";const goodbye = "Goodbye"
